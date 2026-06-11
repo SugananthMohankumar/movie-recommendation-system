@@ -9,6 +9,7 @@ Built using:
 - Streamlit
 
 Live Demo:
+https://movie-recommendation-system-fsdhovfx8sr4u33tsymyam.streamlit.app/
 
 
 Note:
